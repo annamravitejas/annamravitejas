@@ -12,7 +12,7 @@ Organized below by focus—check out my repos!
 - **[Cybersecurity](#)**: Pentesting, threat hunting, malware analysis  
 - **[Cloud](#)**: AWS automation, secure architectures  
 
-## 🌟 Featured Repos (Work in Progress)
+## 🌟 Featured Repos 
 - `ThreatSentry` - Automated threat detection  
 - `CloudGuard` - Serverless cloud security  
 - `AIThreatLab` - AI security testing  
