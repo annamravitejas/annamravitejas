@@ -20,6 +20,6 @@ Organized below by focus—check out my repos!
 ## 📬 Let’s Connect
 - [LinkedIn](https://linkedin.com/in/ravi-teja-annam)  
 - [Website](https://ravitejaannam.com)  
-- Email: ravitejaannam008@gmail.com  
+- Email: ravitejaannams@gmail.com  
 
 Cybersecurity isn’t just a job—it’s my mission. Stay tuned for my latest projects!
