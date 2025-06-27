@@ -50,30 +50,31 @@
 
 ---
 
+---
+
 ### 🚀 Featured Projects
 
-#### 🏥 Healthcare Threat Detection System
-- Built scalable detection pipeline integrating **Sysmon logs**, **EDR agents**, and **Splunk dashboards**.
-- Used MITRE mapping for real-time threat correlation across patient systems.
-- <img src="https://source.unsplash.com/800x300/?healthcare,cybersecurity" alt="Healthcare Security Project" width="100%" />
+#### 🏥 [Healthcare Threat Detection System](https://github.com/ravitejaannam-008/healthcare-cyber-threat-detection)
+- Developed a scalable detection system for **hospital environments** using **Sysmon**, **Splunk**, and **MITRE mapping**.
+- Integrated **patient device logs** and EDR telemetry for real-time incident triage.
+- <img src="https://raw.githubusercontent.com/ravitejaannam-008/healthcare-cyber-threat-detection/main/assets/healthcare-threat.png" alt="Healthcare Security Project" width="100%" />
 
-#### 💳 Banking SIEM + Compliance Engine
-- Deployed **Splunk SOAR**, integrated with **AWS GuardDuty**, **CloudTrail**, and **Lambda** for automation.
-- Automated PCI DSS audits and built real-time dashboards for compliance.
-- <img src="https://source.unsplash.com/800x300/?banking,security,cloud" alt="Banking Cloud Security" width="100%" />
+#### 💳 [Banking SIEM ARM64 Demo](https://github.com/ravitejaannam-008/banking-siem-arm64-demo)
+- Automated **PCI DSS** compliance monitoring using **Splunk SOAR** integrated with **AWS GuardDuty** and **CloudTrail**.
+- Deployed on ARM-based cloud infra with **Lambda** and **Terraform** orchestration.
+- <img src="https://raw.githubusercontent.com/ravitejaannam-008/banking-siem-arm64-demo/main/assets/banking-siem.png" alt="Banking Cloud Security" width="100%" />
 
 #### 🧪 DevOps + Infrastructure Hardening
-- Automated security scans with **Checkov**, **tfsec**, and custom scripts in CI/CD.
-- Hardened Kubernetes clusters using **kube-bench**, **OPA**, and **PodSecurityPolicies**.
+- Automated IaC security via **Checkov**, **tfsec**, and **CI/CD integrations**.
+- Applied **kube-bench**, **OPA**, and **PodSecurityPolicies** for Kubernetes runtime hardening.
 - <img src="https://source.unsplash.com/800x300/?devops,cloud,security" alt="DevOps Security Project" width="100%" />
 
 #### ☁️ Multi-Cloud IR Automation Framework
-- Multi-cloud IR pipeline across **AWS**, **Azure**, and **GCP** using **SOAR + Kafka**.
-- Used MITRE-based detection playbooks with prebuilt remediation scripts.
+- Built cross-cloud detection and remediation pipelines using **SOAR**, **Kafka**, and **MITRE-based playbooks**.
+- Unified visibility across AWS, Azure, and GCP with alert triage and scripted remediation.
 - <img src="https://source.unsplash.com/800x300/?cloud,automation,siem" alt="Multi-cloud Security Project" width="100%" />
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
