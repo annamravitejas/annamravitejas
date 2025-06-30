@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBkN45x8pRxp1a4/giphy.gif" width="100"/>
   <h1>Hello, I'm Raviteja Annam! 🚀</h1>
-  <img src="https://i.imgur.com/8fK51r3.jpg" width="200" style="border-radius: 50%;"/> 
+  <img src="https://i.imgur.com/tZFa3sL.jpeg" width="200" style="border-radius: 50%;"/> 
   <p>
     Results-driven and highly skilled professional with over 6 years of experience at the intersection of 
     <b>Cybersecurity, Cloud Infrastructure, and DevOps Engineering</b> across AWS, Azure, and GCP. 
@@ -18,7 +18,7 @@
     My expertise lies in leveraging cutting-edge technologies and best practices to drive efficiency, enhance security, 
     and optimize performance. I am passionate about building robust CI/CD pipelines, implementing infrastructure-as-code (IaC), 
     and fortifying cloud security postures against advanced threats. My work consistently aligns with industry-leading frameworks 
-    such as NIST CSF, MITRE ATT&CK, CIS Benchmarks, SOC 2, ISO 27001, and GDPR, ensuring compliance and operational excellence.
+    [cite_start]such as NIST CSF [cite: 2, 8, 21][cite_start], MITRE ATT&CK [cite: 19, 21][cite_start], CIS Benchmarks [cite: 2, 8, 57][cite_start], SOC 2 [cite: 2, 8][cite_start], ISO 27001[cite: 21, 28], and GDPR, ensuring compliance and operational excellence.
   </p>
 </div>
 
@@ -88,19 +88,19 @@
 
   <h3>Education</h3>
   <p>
-    <b>Master of Science in Cybersecurity</b> - Oklahoma City University (May 2025) | GPA: 3.9+
+    <b>Master of Science in Cybersecurity</b> - Oklahoma City University (May 2025) | [cite_start]GPA: 3.9+ [cite: 4, 23]
   </p>
 
   <h3>Certifications</h3>
   <p>
-    ✅ AWS Certified Solutions Architect <br>
-    ✅ Google Cybersecurity Certificate <br>
-    ✅ CompTIA Security+ <br>
-    ✅ Microsoft Azure Fundamentals <br>
-    ✅ HashiCorp Certified: Terraform Associate <br>
-    ✅ Certified Kubernetes Administrator (CKA)
+    [cite_start]✅ AWS Certified Solutions Architect [cite: 4, 24] <br>
+    [cite_start]✅ Google Cybersecurity Certificate [cite: 4, 24] <br>
+    [cite_start]✅ CompTIA Security+ [cite: 4, 24] <br>
+    [cite_start]✅ Microsoft Azure Fundamentals [cite: 4] <br>
+    [cite_start]✅ HashiCorp Certified: Terraform Associate [cite: 4] <br>
+    [cite_start]✅ Certified Kubernetes Administrator (CKA) [cite: 4]
     <br>
-    <i>(Also possess CISSP & CEH, mentioned on some resumes for context)</i>
+    [cite_start]<i>(Also possess CISSP & CEH, mentioned on some resumes for context)</i> [cite: 24]
   </p>
 </div>
 
@@ -117,13 +117,13 @@
   <p>
     Key achievements include:
     <ul>
-      <li>Led design and implementation of CI/CD pipelines using GitHub Actions, Azure DevOps, and AWS CodePipeline, reducing deployment times by up to 50%.</li>
-      <li>Developed IaC templates using Terraform, Ansible, and CloudFormation for automated provisioning across multi-cloud environments.</li>
-      <li>Integrated observability tools (Prometheus, Grafana, ELK Stack) with cloud deployments, achieving improved root-cause detection and system reliability.</li>
-      <li>Led migration of legacy services to microservices using Kubernetes (EKS, GKE) and Docker.</li>
-      <li>Integrated SIEM, EDR, and IDS/IPS platforms across environments for enhanced threat detection and incident response.</li>
-      <li>Implemented Zero Trust Architecture and policy-as-code pipelines, strengthening security and compliance across environments.</li>
-      <li>Reduced average Mean Time to Recover (MTTR) by 60% through optimized threat hunting and incident response.</li>
+      [cite_start]<li>Led design and implementation of CI/CD pipelines using GitHub Actions, Azure DevOps, and AWS CodePipeline, reducing deployment times by up to 50%[cite: 9, 49].</li>
+      [cite_start]<li>Developed IaC templates using Terraform, Ansible, and CloudFormation for automated provisioning across multi-cloud environments[cite: 5, 50, 69].</li>
+      [cite_start]<li>Integrated observability tools (Prometheus, Grafana, ELK Stack) with cloud deployments, achieving improved root-cause detection and system reliability[cite: 7, 51].</li>
+      [cite_start]<li>Led migration of legacy services to microservices using Kubernetes (EKS, GKE) and Docker[cite: 52].</li>
+      [cite_start]<li>Integrated SIEM, EDR, and IDS/IPS platforms across environments for enhanced threat detection and incident response[cite: 11, 70, 72].</li>
+      [cite_start]<li>Implemented Zero Trust Architecture and policy-as-code pipelines, strengthening security and compliance across environments[cite: 18, 43, 55, 94].</li>
+      [cite_start]<li>Reduced average Mean Time to Recover (MTTR) by 60% through optimized threat hunting and incident response[cite: 16, 25, 71, 102].</li>
     </ul>
   </p>
 </div>
@@ -136,47 +136,42 @@
 
   <h3>1. Healthcare Cloud Infrastructure Automation (HIPAA Compliant)</h3>
   <p>
-    Developed a HIPAA-compliant cloud infrastructure using Terraform, Kubernetes (ECS, EKS), and policy-as-code (OPA, HashiCorp Sentinel) for automated compliance enforcement. 
-    This project ensured highly available deployments for patient data services and enforced least privilege access across AWS IAM. It also included automated threat detection pipelines leveraging AWS GuardDuty and Splunk for identifying anomalies in patient record access patterns, achieving HIPAA and NIST compliance.
+    [cite_start]Developed a HIPAA-compliant security monitoring and alerting solution for a multi-cloud Healthcare SaaS[cite: 15, 79]. [cite_start]This project leveraged AWS ECS, EKS, RDS, and implemented policy-as-code (OPA, HashiCorp Sentinel) for automated compliance enforcement[cite: 15, 59]. [cite_start]It also integrated SIEM and EDR platforms across AWS and GCP to reduce manual detection efforts by 80% [cite: 80] [cite_start]and included automated threat detection pipelines leveraging AWS GuardDuty and Splunk for identifying anomalies in patient record access patterns, achieving HIPAA and NIST compliance[cite: 101].
   </p>
   <p>
-    <i>Technologies: AWS (ECS, EKS, RDS, GuardDuty, IAM), Terraform, Kubernetes, OPA, HashiCorp Sentinel, Python, Splunk, ELK Stack</i>
+    <i>Technologies: AWS (ECS, EKS, RDS, GuardDuty, IAM), GCP BigQuery, Terraform, Kubernetes, OPA, HashiCorp Sentinel, Python, Splunk, ELK Stack, EDR</i>
   </p>
-  <img src="https://i.ibb.co/Lz0c7k2/healthcare-cloud-architecture.jpg" alt="Healthcare Cloud Infrastructure Automation Diagram" width="700"/>
+  <img src="https://github.com/ravitejaannam-008/github-profile-images/raw/main/healthcare_cloud_architecture.jpg" alt="Healthcare Cloud Infrastructure Automation Diagram" width="700"/>
   <br><br>
 
   <h3>2. Banking Real-Time Risk Monitoring System</h3>
   <p>
-    Designed and deployed a Kinesis and Lambda-based data stream for near real-time detection of fraudulent transactions. 
-    This system significantly reduced Mean Time to Recover (MTTR) by integrating with ELK Stack and Splunk for automated detection rules and alerting.
+    [cite_start]Designed and deployed a Kinesis and Lambda-based data stream for near real-time detection of fraudulent transactions, achieving 95% detection precision[cite: 16, 85]. [cite_start]This system significantly reduced Mean Time to Recover (MTTR) by integrating with ELK Stack and Splunk for automated detection rules and alerting[cite: 17, 38, 61].
   </p>
   <p>
     <i>Technologies: AWS Kinesis, AWS Lambda, ELK Stack, Python, Apache Kafka, Splunk</i>
   </p>
-  <img src="https://i.ibb.co/zX0J6n1/banking-risk-monitoring-system.jpg" alt="Banking Real-Time Risk Monitoring System Diagram" width="700"/>
+  <img src="https://github.com/ravitejaannam-008/github-profile-images/raw/main/banking_risk_monitoring_system.jpg" alt="Banking Real-Time Risk Monitoring System Diagram" width="700"/>
   <br><br>
 
   <h3>3. Zero Trust Architecture Implementation (Multi-Cloud)</h3>
   <p>
-    Led the design and deployment of a Zero Trust Architecture (ZTA) across multi-cloud platforms (AWS, Azure, GCP) leveraging Azure AD, AWS IAM, Okta, and MFA policies. 
-    Achieved compliance with CIS Benchmarks, NIST CSF, and GDPR, resulting in a 50% reduction in access-related incidents.
+    [cite_start]Led the design and deployment of a Zero Trust Architecture (ZTA) across multi-cloud platforms (AWS, Azure, GCP) leveraging Azure AD, AWS IAM, Okta, and MFA policies, achieving compliance with NIST SP 800-207, CIS Benchmarks, NIST CSF, and GDPR[cite: 18, 43, 62, 83, 103]. [cite_start]Integrated Okta, AWS IAM, and Azure AD for seamless role-based access control across platforms[cite: 18, 43, 84, 103].
   </p>
   <p>
     <i>Technologies: Azure AD, AWS IAM, GCP IAM, Okta, SAML, OIDC, Terraform, Policy-as-Code, MFA</i>
   </p>
-  <img src="https://i.ibb.co/nC3pQc3/zero-trust-architecture.jpg" alt="Zero Trust Architecture Diagram" width="700"/>
+  <img src="https://github.com/ravitejaannam-008/github-profile-images/raw/main/zero_trust_architecture.jpg" alt="Zero Trust Architecture Diagram" width="700"/>
   <br><br>
 
   <h3>4. Advanced Persistent Threat (APT) Simulation Framework</h3>
   <p>
-    Developed a threat emulation toolkit using PowerShell, Python, Splunk, YARA, and Sigma rules for simulating APT-style attacks. 
-    This framework verified detection coverage and built automated detection pipelines leveraging MITRE ATT&CK techniques, 
-    enhancing the organization's defensive capabilities.
+    [cite_start]Developed a threat emulation toolkit using PowerShell, Python, Splunk, ELK Stack, YARA, and Sigma rules for simulating APT-style attacks and verifying detection coverage[cite: 19, 41, 62, 103]. [cite_start]This framework built automated detection pipelines leveraging MITRE ATT&CK techniques, enhancing the organization's defensive capabilities[cite: 19, 41].
   </p>
   <p>
     <i>Technologies: Python, PowerShell, Splunk, ELK Stack, YARA, Sigma Rules, MITRE ATT&CK, REST APIs</i>
   </p>
-  <img src="https://i.ibb.co/Yd4BvC7/apt-simulation-framework.jpg" alt="APT Simulation Framework Dashboard" width="700"/>
+  <img src="https://github.com/ravitejaannam-008/github-profile-images/raw/main/apt_simulation_framework.jpg" alt="APT Simulation Framework Dashboard" width="700"/>
 </div>
 
 ---
