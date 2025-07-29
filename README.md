@@ -1,17 +1,20 @@
-# 🛡️ Raviteja Annam | Cybersecurity Analyst & Cloud DevOps Engineer
+# 🛡️ Raviteja Annam | Senior Cybersecurity Consultant & PAM Architect
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst+%7C+6%2B+Years;Cloud+Security+Architect;DevOps+%26+Infrastructure+Engineer;Multi-Cloud+Expert+%7C+AWS+%7C+Azure+%7C+GCP)](https://git.io/typing-svg)
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Senior+Cybersecurity+Consultant+%7C+8%2B+Years;PAM+%26+Identity+Architect;Zero+Trust+Security+Expert;Enterprise+Security+Specialist)](https://git.io/typing-svg)
 
-### 🎯 **6+ Years as Cybersecurity Analyst** | **Master's in Cybersecurity** | **Multi-Cloud Expert**
+### 🎯 **8+ Years as Cybersecurity Consultant** | **PAM & Identity Expert** | **Zero Trust Architect**
 
+<!-- Contact Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-teja-annam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annamravitejas@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-103366?style=for-the-badge&logo=firefox&logoColor=white)](https://ravitejaannam.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravitejaannams@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravitejaannam-008)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annamravitejas)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ravitejaannam-008&style=for-the-badge&color=0e75b6)
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=annamravitejas&style=for-the-badge&color=0e75b6)
 
 </div>
 
@@ -19,24 +22,44 @@
 
 ## 🎯 Professional Summary
 
-**Senior Cybersecurity Analyst & Cloud DevOps Engineer** with **6+ years** of hands-on experience in threat detection, incident response, and cloud security architecture. Currently pursuing **Master's in Cybersecurity** (GPA: 3.9+) while architecting secure, scalable solutions across **AWS, Azure, and GCP**. 
+> **Senior Cybersecurity Consultant & PAM Architect** with **8+ years** of specialized experience in Identity and Privileged Access Management (PAM) solutions. Currently leading enterprise security initiatives at **Lulu Lemon** while architecting zero-trust security frameworks and implementing advanced threat mitigation strategies.
 
-**🔥 Specialized in:** Advanced Threat Hunting • Zero Trust Architecture • SIEM/SOAR Implementation • Cloud Security Posture Management • DevSecOps Integration • Compliance Automation
+**🔥 Core Expertise:** CyberArk PIM Suite • Thycotic Secret Server • PingFederate SSO • Zero Trust Architecture • Just-in-Time Access • Proactive Threat Analytics • Enterprise Security Automation
 
 ---
 
 ## 💼 Professional Experience
 
-### 🛡️ **Senior Cybersecurity Analyst** | Indian Railways | *6+ Years*
-*Leading enterprise security operations and cloud security initiatives*
+### 🛡️ **Senior Cybersecurity Consultant** | Lulu Lemon | Dallas, TX | *July 2023 - Present*
+
+> *Leading enterprise PAM implementation and zero-trust security architecture*
 
 **🏆 Key Achievements:**
-- 🎯 **95% threat detection accuracy** through advanced SIEM correlation rules and ML algorithms
-- 🚨 **60% reduction in MTTR** for security incidents via automated response playbooks
-- 🔒 **Zero security breaches** in 3+ years through proactive threat hunting and monitoring
-- ☁️ **100% cloud compliance** achieved across HIPAA, SOC 2, GDPR, and NIST frameworks
-- 🚀 **50% faster deployment** of security controls through DevSecOps integration
-- 📊 **80% automation** of routine security tasks and vulnerability assessments
+- 🎯 **30% improvement** in credential synchronization success rates through optimized CyberArk PIM v11.7 deployment
+- 🔒 **Zero security breaches** maintained through comprehensive PSM connector engineering and session isolation
+- ☁️ **Unified security ecosystem** created by integrating CyberArk with AD, Splunk, NTP, RADIUS, and MFA solutions
+- 🚀 **High system uptime** achieved through expert problem resolution for critical authentication issues
+- 📊 **Comprehensive session recording** implemented for PowerShell/ISE, MMC, and Windows Server Manager access
+
+### 🔐 **Information Security Engineer** | Careington | Frisco, TX | *July 2022 - June 2023*
+
+> *Architected high-availability PAM infrastructure and enterprise security monitoring*
+
+**🏆 Key Achievements:**
+- 🏗️ **Active-active Thycotic infrastructure** built for disaster recovery with distributed engines and RabbitMQ
+- 🔄 **Enterprise-wide Tanium deployment** upgraded to v7.2.314.3632 with latest module versions
+- 🤖 **Automated user provisioning** implemented using Tivoli Identity Manager for role-based access control
+- 🔐 **MFA and SSO enablement** achieved through OneLogin integration for various applications
+
+### 🏦 **Information Security Engineer** | Fanniemae | Plano, TX | *March 2020 - June 2022*
+
+> *Managed dual PAM platform environment and automated security operations*
+
+**🏆 Key Achievements:**
+- 🔄 **Successful CyberArk upgrade** from v8 to v8.6 using PAR, PACLI, and Password Upload utilities
+- 🤖 **Infrastructure automation** achieved through Bash and Shell scripting for efficient patch management
+- 📊 **Comprehensive monitoring** implemented using Splunk and Opsview for proactive issue identification
+- ⚡ **SLA adherence** maintained for all incidents and requests through optimized operational processes
 
 ---
 
@@ -44,133 +67,69 @@
 
 <div align="center">
 
-### 🔐 **CYBERSECURITY ARSENAL**
+### 🔐 **PRIVILEGED ACCESS MANAGEMENT (PAM)**
 
-**Security Information & Event Management (SIEM)**
+**CyberArk PIM Suite**
+![CyberArk](https://img.shields.io/badge/CyberArk_PIM-2D5AA0?style=for-the-badge&logo=cyberark&logoColor=white)
+![PVWA](https://img.shields.io/badge/PVWA-2D5AA0?style=for-the-badge&logo=cyberark&logoColor=white)
+![PSM](https://img.shields.io/badge/PSM-2D5AA0?style=for-the-badge&logo=cyberark&logoColor=white)
+![CPM](https://img.shields.io/badge/CPM-2D5AA0?style=for-the-badge&logo=cyberark&logoColor=white)
+![PTA](https://img.shields.io/badge/PTA-2D5AA0?style=for-the-badge&logo=cyberark&logoColor=white)
+
+**Thycotic Solutions**
+![Thycotic](https://img.shields.io/badge/Thycotic_Secret_Server-00A3E0?style=for-the-badge&logo=thycotic&logoColor=white)
+![Privileged_Manager](https://img.shields.io/badge/Privileged_Manager-00A3E0?style=for-the-badge&logo=thycotic&logoColor=white)
+
+**Enterprise Security Tools**
+![Tanium](https://img.shields.io/badge/Tanium_Platform-FF6B35?style=for-the-badge&logo=tanium&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![QRadar](https://img.shields.io/badge/IBM_QRadar-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
-![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![ArcSight](https://img.shields.io/badge/ArcSight-0096D6?style=for-the-badge&logo=microfocus&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios_Opsview-1F6FEB?style=for-the-badge&logo=nagios&logoColor=white)
 
-**Threat Intelligence & Detection**
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F3D?style=for-the-badge&logo=crowdstrike&logoColor=white)
-![SentinelOne](https://img.shields.io/badge/SentinelOne-4B0082?style=for-the-badge&logo=sentinelone&logoColor=white)
-![Carbon_Black](https://img.shields.io/badge/Carbon_Black-000000?style=for-the-badge&logo=vmware&logoColor=white)
-![Cortex_XDR](https://img.shields.io/badge/Cortex_XDR-00C9FF?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+### 🔑 **IDENTITY & ACCESS MANAGEMENT (IAM)**
 
-**Vulnerability Management**
-![Qualys](https://img.shields.io/badge/Qualys-D52B1E?style=for-the-badge&logo=qualys&logoColor=white)
-![Rapid7](https://img.shields.io/badge/Rapid7-02A0D4?style=for-the-badge&logo=rapid7&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge&logo=openvas&logoColor=white)
+**SSO & Federation**
+![PingFederate](https://img.shields.io/badge/PingFederate-00A3E0?style=for-the-badge&logo=pingidentity&logoColor=white)
+![CA_SiteMinder](https://img.shields.io/badge/CA_SiteMinder-FF6B35?style=for-the-badge&logo=ca&logoColor=white)
+![OneLogin](https://img.shields.io/badge/OneLogin-00A3E0?style=for-the-badge&logo=onelogin&logoColor=white)
+![SAML_2.0](https://img.shields.io/badge/SAML_2.0-FF6B35?style=for-the-badge&logo=saml&logoColor=white)
 
-**Security Frameworks & Compliance**
-![NIST](https://img.shields.io/badge/NIST_CSF-2D628B?style=for-the-badge&logo=nist&logoColor=white)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-F3722C?style=for-the-badge&logo=mitre&logoColor=white)
-![ISO27001](https://img.shields.io/badge/ISO_27001-00599C?style=for-the-badge&logo=iso&logoColor=white)
-![SOC2](https://img.shields.io/badge/SOC_2-FF6B35?style=for-the-badge&logo=aicpa&logoColor=white)
+**Identity Management**
+![SailPoint](https://img.shields.io/badge/SailPoint_IdentityIQ-00A3E0?style=for-the-badge&logo=sailpoint&logoColor=white)
+![Tivoli_IM](https://img.shields.io/badge/Tivoli_Identity_Manager-1F6FEB?style=for-the-badge&logo=ibm&logoColor=white)
+![Active_Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![LDAP](https://img.shields.io/badge/LDAP-FF6B35?style=for-the-badge&logo=ldap&logoColor=white)
 
-### ☁️ **CLOUD PLATFORMS & SERVICES**
+**Multi-Factor Authentication**
+![RSA_SecurID](https://img.shields.io/badge/RSA_SecurID-FF6B35?style=for-the-badge&logo=rsa&logoColor=white)
+![MFA](https://img.shields.io/badge/Multi_Factor_Auth-00A3E0?style=for-the-badge&logo=security&logoColor=white)
 
-**Multi-Cloud Expertise**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+### 🚀 **AUTOMATION & SCRIPTING**
 
-**Cloud Security Services**
-![AWS_GuardDuty](https://img.shields.io/badge/AWS_GuardDuty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure_Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP_Security](https://img.shields.io/badge/GCP_Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Identity & Access Management**
-![AWS_IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure_AD](https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
-![Ping_Identity](https://img.shields.io/badge/Ping_Identity-1565C0?style=for-the-badge&logo=pingidentity&logoColor=white)
-
-### 🚀 **DEVOPS & AUTOMATION**
-
-**Infrastructure as Code**
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
-
-**Container & Orchestration**
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-
-**CI/CD & Pipeline Security**
-![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab_CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-**Monitoring & Observability**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![New_Relic](https://img.shields.io/badge/New_Relic-0286BF?style=for-the-badge&logo=newrelic&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-
-### 💻 **PROGRAMMING & SCRIPTING**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Scripting Languages**
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=shell&logoColor=white)
 
-</div>
+**Automation Tools**
+![Tivoli_AM](https://img.shields.io/badge/Tivoli_Access_Manager-1F6FEB?style=for-the-badge&logo=ibm&logoColor=white)
+![Custom_Connectors](https://img.shields.io/badge/Custom_Connectors-00A3E0?style=for-the-badge&logo=connector&logoColor=white)
 
----
+### ☁️ **INFRASTRUCTURE & PLATFORMS**
 
-## 🎓 Education & Certifications
+**Operating Systems**
+![Windows_Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Linux_RHEL](https://img.shields.io/badge/RHEL_CentOS-CC2927?style=for-the-badge&logo=redhat&logoColor=white)
 
-<div align="center">
+**Application Servers**
+![WebSphere](https://img.shields.io/badge/IBM_WebSphere-1F6FEB?style=for-the-badge&logo=ibm&logoColor=white)
+![WebLogic](https://img.shields.io/badge/Oracle_WebLogic-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache_IHS-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-### 📚 **Academic Excellence**
-🎓 **Master of Science in Cybersecurity** | Oklahoma City University (2025)  
-**GPA: 3.9+** | *Specialized in Advanced Threat Detection, Cloud Security, & Digital Forensics*
-
-### 🏆 **Professional Certifications**
-
-<table>
-<tr>
-<td align="center">
-
-**🔐 CYBERSECURITY**
-- ✅ **CISSP** - Certified Information Systems Security Professional
-- ✅ **CEH** - Certified Ethical Hacker  
-- ✅ **CompTIA Security+** - Security Fundamentals
-- ✅ **GCIH** - GIAC Certified Incident Handler
-- ✅ **GSEC** - GIAC Security Essentials
-
-</td>
-<td align="center">
-
-**☁️ CLOUD SECURITY**
-- ✅ **AWS Solutions Architect** - Professional
-- ✅ **AWS Security Specialty** - Advanced Security
-- ✅ **Azure Security Engineer** - AZ-500
-- ✅ **Google Cloud Security** - Professional
-- ✅ **CCSP** - Certified Cloud Security Professional
-
-</td>
-<td align="center">
-
-**🚀 DEVOPS & AUTOMATION**
-- ✅ **CKA** - Certified Kubernetes Administrator
-- ✅ **CKS** - Certified Kubernetes Security Specialist
-- ✅ **Terraform Associate** - HashiCorp Certified
-- ✅ **Docker Certified Associate** - Container Expert
-- ✅ **Ansible Certified** - Automation Specialist
-
-</td>
-</tr>
-</table>
+**Databases & Messaging**
+![SQL_Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle_DB](https://img.shields.io/badge/Oracle_Database-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 </div>
 
@@ -178,155 +137,133 @@
 
 ## 🚀 Featured Security Projects
 
-### 🏥 **Enterprise Healthcare Security Operations Center (SOC)**
-*HIPAA-Compliant Multi-Cloud Security Monitoring & Incident Response Platform*
+### 🔐 **Just-in-Time (JIT) Privileged Access via SSO Federation**
+*Zero Trust Access Model with Automated Workflow Orchestration*
 
 <div align="center">
 
-![Healthcare Security](https://img.shields.io/badge/🏥_Healthcare_Security-FF4B4B?style=for-the-badge&logoColor=white)
+![JIT Access](https://img.shields.io/badge/🔐_JIT_Access-00D4FF?style=for-the-badge&logoColor=white)
 
-**Stack:** AWS Security Hub • Azure Sentinel • Splunk Enterprise • CrowdStrike Falcon • Terraform
+**Repository:** [Just-in-Time-JIT-Privileged-Access-via-SSO-Federation](https://github.com/annamravitejas/Just-in-Time-JIT-Privileged-Access-via-SSO-Federation)
+
+**Stack:** PingFederate • CyberArk PVWA • Active Directory • Node.js • React • PostgreSQL
+
 </div>
 
-**🎯 Challenge:** Build 24/7 SOC for healthcare organization with strict HIPAA compliance requirements  
-**💡 Solution:** Designed multi-cloud SIEM architecture with automated threat detection and response  
+**🎯 Challenge:** Eliminate standing privileged access while maintaining operational efficiency  
+**💡 Solution:** Engineered JIT access model with SAML-based SSO authentication and automated workflow orchestration  
 **📈 Business Impact:**
-- **100% HIPAA compliance** achieved across all cloud workloads
-- **95% reduction** in false positive alerts through ML-tuned correlation rules
-- **<5 minutes MTTR** for critical security incidents via automated playbooks
-- **Zero data breaches** maintained over 3+ years of operations
+- **90%+ reduction** in standing privileged accounts through automated time-bound access
+- **Zero-touch automation** achieved for access request validation and provisioning
+- **Complete audit trail** maintained for compliance with SOX, SOC2, and GDPR
+- **Seamless user experience** through PingFederate SSO integration
 
 ```yaml
-Security Architecture:
-├── Multi-Cloud SIEM Integration
-│   ├── AWS GuardDuty → CloudWatch → Splunk
-│   ├── Azure Sentinel → Log Analytics → SOAR
-│   └── GCP Security Center → Cloud Logging
-├── Automated Threat Response
-│   ├── SOAR playbooks for common threats
-│   ├── Automated quarantine & remediation
-│   └── Real-time stakeholder notifications
-└── Compliance Automation
-    ├── HIPAA audit trails & reporting
-    ├── Continuous compliance monitoring
-    └── Risk assessment automation
+JIT Architecture:
+├── SSO Federation Layer
+│   ├── PingFederate SAML 2.0 authentication
+│   ├── Conditional access policies
+│   └── Risk-based authentication
+├── Workflow Orchestration
+│   ├── Automated approval processes
+│   ├── Time-bound access provisioning
+│   └── Automatic revocation workflows
+├── Integration Layer
+│   ├── CyberArk PVWA integration
+│   ├── Active Directory group management
+│   └── Service desk API automation
+└── Compliance & Audit
+    ├── Complete session logging
+    ├── Audit trail generation
+    └── Compliance reporting
 ```
 
 ---
 
-### 🏦 **Banking Fraud Detection & Prevention System**
-*Real-Time ML-Powered Transaction Monitoring with Zero-Trust Architecture*
+### 🛡️ **Proactive Threat Mitigation via Integrated PAM & SIEM**
+*Real-Time Threat Detection and Automated Response Platform*
 
 <div align="center">
 
-![Banking Security](https://img.shields.io/badge/🏦_Banking_Security-00AA44?style=for-the-badge&logoColor=white)
+![Threat Mitigation](https://img.shields.io/badge/🛡️_Threat_Mitigation-DC143C?style=for-the-badge&logoColor=white)
 
-**Stack:** AWS Kinesis • Lambda • SageMaker • ELK Stack • Kafka • Python • TensorFlow
+**Repository:** [Proactive-Threat-Mitigation-PAM-SIEM](https://github.com/annamravitejas/Proactive-Threat-Mitigation-PAM-SIEM)
+
+**Stack:** CyberArk PTA • Splunk • Tanium • Python • PowerShell • Custom APIs
+
 </div>
 
-**🎯 Challenge:** Detect sophisticated financial fraud in real-time while minimizing customer friction  
-**💡 Solution:** Built ML-powered streaming analytics with behavioral analysis and risk scoring  
+**🎯 Challenge:** Reduce MTTR for privileged threats from hours to minutes  
+**💡 Solution:** Built integrated "detect and respond" playbook connecting PAM analytics with SIEM and endpoint security  
 **📈 Business Impact:**
-- **97% fraud detection accuracy** with <0.1% false positive rate
-- **$2.5M annual savings** from prevented fraudulent transactions
-- **Sub-second response time** for transaction risk assessment
-- **Zero downtime** maintained during peak transaction volumes
+- **MTTR reduction** from 4+ hours to under 5 minutes for privileged threats
+- **100% incident containment** achieved through automated response actions
+- **<2% false positive rate** maintained through ML-tuned detection rules
+- **99.9% system uptime** with proactive threat hunting capabilities
 
 ```yaml
-ML Detection Pipeline:
-├── Real-Time Data Ingestion
-│   ├── Kinesis Data Streams (100K+ TPS)
-│   ├── Real-time feature engineering
-│   └── Behavioral pattern analysis
-├── ML Model Ensemble
-│   ├── Anomaly detection (Isolation Forest)
-│   ├── Sequence modeling (LSTM Networks)
-│   └── Risk scoring (Gradient Boosting)
-└── Automated Response System
-    ├── Real-time transaction blocking
-    ├── Customer notification workflows
-    └── Fraud investigator alerts
+Threat Response Pipeline:
+├── Detection Layer
+│   ├── CyberArk PTA anomaly detection
+│   ├── Splunk correlation rules
+│   └── Custom threat indicators
+├── Analysis Engine
+│   ├── Real-time threat scoring
+│   ├── Behavioral analysis
+│   └── Risk assessment algorithms
+├── Automated Response
+│   ├── Credential rotation triggers
+│   ├── Endpoint isolation via Tanium
+│   └── Network quarantine actions
+└── Orchestration
+    ├── Custom PowerShell scripts
+    ├── API-driven remediation
+    └── Stakeholder notifications
 ```
 
 ---
 
-### 🛡️ **Zero Trust Security Architecture Implementation**
-*Enterprise-Scale Identity-Centric Security Framework*
+### 🤖 **Automated Privileged Access Lifecycle Management**
+*Zero-Touch PAM Operations with Complete Workflow Automation*
 
 <div align="center">
 
-![Zero Trust](https://img.shields.io/badge/🛡️_Zero_Trust-8A2BE2?style=for-the-badge&logoColor=white)
+![Lifecycle Management](https://img.shields.io/badge/🤖_Lifecycle_Management-00AA44?style=for-the-badge&logoColor=white)
 
-**Stack:** Azure AD • AWS IAM • Okta • CyberArk • Terraform • Microsoft Defender • Zscaler
+**Repository:** [Automated-Privileged-Access-Lifecycle-Management](https://github.com/annamravitejas/Automated-Privileged-Access-Lifecycle-Management)
+
+**Stack:** PowerShell • CyberArk APIs • Active Directory • Service Desk Integration • Custom Workflows
+
 </div>
 
-**🎯 Challenge:** Implement Zero Trust across 10,000+ users and hybrid multi-cloud infrastructure  
-**💡 Solution:** Designed identity-first security model with continuous verification and least privilege  
+**🎯 Challenge:** Automate complete privileged access lifecycle while ensuring compliance  
+**💡 Solution:** Developed zero-touch automation framework for end-to-end PAM operations  
 **📈 Business Impact:**
-- **85% reduction** in successful lateral movement attacks
-- **NIST SP 800-207 compliance** achieved across all environments
-- **99.99% uptime** for critical authentication services
-- **40% improvement** in security incident response times
+- **60% reduction** in manual ticket handling through automated workflows
+- **Zero-touch provisioning** achieved for Safe creation and account management
+- **Automated decommissioning** triggered upon employee termination
+- **Clean audit trails** maintained with comprehensive activity reporting
 
 ```yaml
-Zero Trust Components:
-├── Identity & Access Management
-│   ├── Conditional Access Policies
-│   ├── Risk-based Authentication
-│   ├── Just-in-Time (JIT) Access
-│   └── Privileged Access Management
-├── Network Security
-│   ├── Micro-segmentation (NSG/SG)
-│   ├── Network Access Control (NAC)
-│   └── East-West Traffic Inspection
-├── Device Security
-│   ├── Device compliance policies
-│   ├── Mobile Device Management (MDM)
-│   └── Endpoint Detection & Response
-└── Data Protection
-    ├── Data Loss Prevention (DLP)
-    ├── Information Rights Management
-    └── Cloud Access Security Broker
-```
-
----
-
-### 🎯 **Advanced Persistent Threat (APT) Hunting Platform**
-*MITRE ATT&CK-Based Threat Detection & Response Automation*
-
-<div align="center">
-
-![Threat Hunting](https://img.shields.io/badge/🎯_Threat_Hunting-DC143C?style=for-the-badge&logoColor=white)
-
-**Stack:** Splunk • YARA • Sigma Rules • MITRE Caldera • Python • PowerShell • Suricata
-</div>
-
-**🎯 Challenge:** Proactively hunt for advanced threats and validate security control effectiveness  
-**💡 Solution:** Built comprehensive threat hunting platform with automated detection validation  
-**📈 Business Impact:**
-- **300+ MITRE ATT&CK techniques** continuously monitored
-- **98% detection coverage** for known threat actor TTPs
-- **70% faster** threat hunting investigations through automation
-- **15+ APT groups** successfully detected and mitigated
-
-```yaml
-Threat Hunting Capabilities:
-├── Automated Threat Detection
-│   ├── YARA rule engine for malware detection
-│   ├── Sigma rule correlation for behavior analysis
-│   └── Custom IOC/IOA hunting queries
-├── MITRE ATT&CK Integration
-│   ├── Technique coverage mapping
-│   ├── Detection rule validation
-│   └── Gap analysis reporting
-├── Threat Intelligence Integration
-│   ├── STIX/TAXII feed processing
-│   ├── Commercial threat intel feeds
-│   └── Open source intelligence (OSINT)
-└── Automated Response
-    ├── Threat containment workflows
-    ├── Evidence collection automation
-    └── Stakeholder notification system
+Lifecycle Automation:
+├── Provisioning Workflow
+│   ├── Service desk API integration
+│   ├── Access request validation
+│   ├── Safe and account creation
+│   └── Permission assignment
+├── Management Operations
+│   ├── Automated password rotations
+│   ├── Policy enforcement
+│   └── Compliance monitoring
+├── Decommissioning Process
+│   ├── Termination date triggers
+│   ├── Account disablement
+│   ├── Safe data archival
+│   └── Final activity reports
+└── Integration Layer
+    ├── Active Directory sync
+    ├── CyberArk API automation
+    └── Service desk integration
 ```
 
 ---
@@ -335,25 +272,11 @@ Threat Hunting Capabilities:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravitejaannam-008&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f39c12&icon_color=f39c12&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annamravitejas&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f39c12&icon_color=f39c12&text_color=ffffff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravitejaannam-008&theme=radical&hide_border=true&background=0d1117&stroke=f39c12&ring=f39c12&fire=f39c12&currStreakLabel=f39c12)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=annamravitejas&theme=radical&hide_border=true&background=0d1117&stroke=f39c12&ring=f39c12&fire=f39c12&currStreakLabel=f39c12)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravitejaannam-008&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f39c12&text_color=ffffff)
-
-</div>
-
----
-
-## 🏆 Professional Recognition
-
-<div align="center">
-
-| **🔐 Security Excellence** | **☁️ Cloud Innovation** | **🚀 DevOps Leadership** | **📚 Continuous Learning** |
-|:---:|:---:|:---:|:---:|
-| Zero breach record (3+ years) | Multi-cloud architecture expert | DevSecOps integration pioneer | Master's degree in progress |
-| MITRE ATT&CK framework expert | Infrastructure automation | CI/CD security champion | 15+ professional certifications |
-| Advanced threat hunting | Compliance automation | Container security specialist | Industry conference speaker |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annamravitejas&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f39c12&text_color=ffffff)
 
 </div>
 
@@ -361,12 +284,12 @@ Threat Hunting Capabilities:
 
 ## 🎯 Career Focus & Opportunities
 
-**🔍 Actively seeking roles in:**
+> **🔍 Actively seeking roles in:**
 
 ### 🎖️ **Primary Interest Areas**
-- **🛡️ Senior Cybersecurity Architect** - Enterprise security strategy and implementation
-- **☁️ Cloud Security Engineer** - Multi-cloud security architecture and governance  
-- **🚀 DevSecOps Lead** - Security integration in CI/CD and cloud-native environments
+- **🛡️ Senior Cybersecurity Consultant** - Enterprise PAM strategy and implementation
+- **🔐 PAM Architect** - Privileged access management design and optimization  
+- **🔑 Identity & Access Management Specialist** - SSO, Federation, and IAM solutions
 - **👨‍💼 Cybersecurity Manager/Director** - Leading security teams and strategic initiatives
 
 ### 💼 **Industry Preferences**
@@ -383,12 +306,12 @@ Threat Hunting Capabilities:
 
 ### **🤝 Let's Build Secure Solutions Together!**
 
-*Ready to discuss how my cybersecurity expertise can strengthen your organization's security posture?*
+*Ready to discuss how my PAM expertise can strengthen your organization's security posture?*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-teja-annam)
-[![Email](https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravitejaannams@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annamravitejas@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Featured_Work-103366?style=for-the-badge&logo=firefox&logoColor=white)](https://ravitejaannam.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Code_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravitejaannam-008)
+[![GitHub](https://img.shields.io/badge/GitHub-Code_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annamravitejas)
 
 **📧 Response Time:** Within 24 hours  
 **📅 Availability:** Open to immediate opportunities  
@@ -398,8 +321,6 @@ Threat Hunting Capabilities:
 
 ### 💭 **Professional Philosophy**
 
-*"In cybersecurity, you're only as strong as your weakest link. My mission is to eliminate those weak links through proactive threat hunting, robust architecture design, and continuous security automation."*
+> *"In the world of cybersecurity, privileged access is the crown jewel that attackers seek. My mission is to protect these critical assets through zero-trust principles, just-in-time access, and proactive threat mitigation."*
 
-**🔥 Defending digital assets, one threat at a time.**
-
-</div>
+**🔥 Securing digital kingdoms, one privileged account at a time.**
