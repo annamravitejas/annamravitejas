@@ -3,9 +3,9 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Senior+Cybersecurity+Consultant+%7C+8%2B+Years;PAM+%26+Identity+Architect;Zero+Trust+Security+Expert;Enterprise+Security+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Senior+Cybersecurity+Consultant+%7C+8%2B+Years;PAM+%26+IAM+Specialist;Security+Automation+Architect;Cloud+Security+Enabler)](https://git.io/typing-svg)
 
-### 🎯 **8+ Years as Cybersecurity Consultant** | **PAM & Identity Expert** | **Zero Trust Architect**
+### 🎯 **8+ Years in Cybersecurity** | **Privileged Access Management Expert** | **Security Automation & Cloud Security (AWS, Azure)**
 
 <!-- Contact Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-teja-annam)
@@ -22,44 +22,50 @@
 
 ## 🎯 Professional Summary
 
-> **Senior Cybersecurity Consultant & PAM Architect** with **8+ years** of specialized experience in Identity and Privileged Access Management (PAM) solutions. Currently leading enterprise security initiatives at **Lulu Lemon** while architecting zero-trust security frameworks and implementing advanced threat mitigation strategies.
+> **Cyber Security Consultant** with **8+ years** of hands-on experience in designing and managing enterprise-grade IAM/PAM solutions. Specialized in architecting **Zero Trust** models, integrating **SSO/MFA**, building **security automation frameworks**, and correlating logs across hybrid cloud environments (AWS, Azure).
 
-**🔥 Core Expertise:** CyberArk PIM Suite • Thycotic Secret Server • PingFederate SSO • Zero Trust Architecture • Just-in-Time Access • Proactive Threat Analytics • Enterprise Security Automation
+**Core Expertise:**
+- CyberArk (PVWA, CPM, PSM, AIM, PTA, EPM)
+- Thycotic Secret Server & Privileged Manager
+- Tanium Comply, Threat Response, Connect
+- PingFederate, SailPoint, CA SiteMinder
+- Splunk, GuardDuty, CloudTrail, Azure Sentinel
+- PowerShell, Bash, Python – for full security lifecycle automation
 
 ---
 
 ## 💼 Professional Experience
 
-### 🛡️ **Senior Cybersecurity Consultant** | Lulu Lemon | Dallas, TX | *July 2023 - Present*
+### 🛡️ **Cyber Security Consultant** | Lululemon | Vancouver, BC | *Jul 2023 – Present*
 
-> *Leading enterprise PAM implementation and zero-trust security architecture*
-
-**🏆 Key Achievements:**
-- 🎯 **30% improvement** in credential synchronization success rates through optimized CyberArk PIM v11.7 deployment
-- 🔒 **Zero security breaches** maintained through comprehensive PSM connector engineering and session isolation
-- ☁️ **Unified security ecosystem** created by integrating CyberArk with AD, Splunk, NTP, RADIUS, and MFA solutions
-- 🚀 **High system uptime** achieved through expert problem resolution for critical authentication issues
-- 📊 **Comprehensive session recording** implemented for PowerShell/ISE, MMC, and Windows Server Manager access
-
-### 🔐 **Information Security Engineer** | Careington | Frisco, TX | *July 2022 - June 2023*
-
-> *Architected high-availability PAM infrastructure and enterprise security monitoring*
+> *Leading enterprise-wide PAM transformation, cloud threat response, and automation pipelines.*
 
 **🏆 Key Achievements:**
-- 🏗️ **Active-active Thycotic infrastructure** built for disaster recovery with distributed engines and RabbitMQ
-- 🔄 **Enterprise-wide Tanium deployment** upgraded to v7.2.314.3632 with latest module versions
-- 🤖 **Automated user provisioning** implemented using Tivoli Identity Manager for role-based access control
-- 🔐 **MFA and SSO enablement** achieved through OneLogin integration for various applications
+- 🔒 Implemented **Just-in-Time privileged access** via PingFederate + CyberArk, eliminating 90% of standing privileged accounts.
+- ☁️ Integrated **AWS GuardDuty**, **CloudTrail**, and **Azure Sentinel** into a unified SIEM (Splunk) pipeline.
+- 🤖 Automated the **full lifecycle of privileged account provisioning/deprovisioning** with PowerShell + REST APIs.
+- 📈 Reduced incident MTTR by **>60%** by correlating PAM, SIEM, and endpoint logs into actionable playbooks.
+- 🔍 Developed **custom PSM connectors** and secured session recordings across high-risk platforms.
 
-### 🏦 **Information Security Engineer** | Fanniemae | Plano, TX | *March 2020 - June 2022*
+### 🔐 **Information Security Engineer** | Careington | Frisco, TX | *Jul 2022 – Jun 2023*
 
-> *Managed dual PAM platform environment and automated security operations*
+> *Modernized PAM architecture with disaster recovery and integrated enterprise endpoint protection.*
 
 **🏆 Key Achievements:**
-- 🔄 **Successful CyberArk upgrade** from v8 to v8.6 using PAR, PACLI, and Password Upload utilities
-- 🤖 **Infrastructure automation** achieved through Bash and Shell scripting for efficient patch management
-- 📊 **Comprehensive monitoring** implemented using Splunk and Opsview for proactive issue identification
-- ⚡ **SLA adherence** maintained for all incidents and requests through optimized operational processes
+- 🏗️ Designed **Thycotic Secret Server DR** using distributed engines, RabbitMQ, and custom alerting.
+- 🛡️ Rolled out **Tanium Comply + Threat Response** across 2,000+ endpoints with centralized dashboards.
+- 🧩 Enabled **enterprise SSO/MFA** using OneLogin + RSA SecurID + CA SiteMinder across critical business apps.
+- ⚙️ Built API-based automation workflows for onboarding/offboarding privileged users.
+
+### 🏦 **Information Security Engineer** | Fannie Mae | Plano, TX | *Mar 2020 – Jun 2022*
+
+> *Managed PAM and endpoint security tools, automated infrastructure tasks, and enhanced compliance visibility.*
+
+**🏆 Key Achievements:**
+- 🔄 Upgraded CyberArk from **v8 to 8.6** using PACLI, Password Upload, and disaster-safe credential rotation.
+- ⚙️ Automated provisioning tasks with **Tivoli Identity Manager**, aligning RBAC with HRMS.
+- 📊 Implemented real-time monitoring via **Splunk**, **Opsview**, and integrated alert escalation workflows.
+- 💡 Optimized SLA and ticketing workflows by scripting response actions in Bash, PowerShell, and Shell.
 
 ---
 
@@ -80,56 +86,48 @@
 ![Thycotic](https://img.shields.io/badge/Thycotic_Secret_Server-00A3E0?style=for-the-badge&logo=thycotic&logoColor=white)
 ![Privileged_Manager](https://img.shields.io/badge/Privileged_Manager-00A3E0?style=for-the-badge&logo=thycotic&logoColor=white)
 
-**Enterprise Security Tools**
-![Tanium](https://img.shields.io/badge/Tanium_Platform-FF6B35?style=for-the-badge&logo=tanium&logoColor=white)
+**Security Platforms**
+![Tanium](https://img.shields.io/badge/Tanium-FF6B35?style=for-the-badge&logo=tanium&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Nagios](https://img.shields.io/badge/Nagios_Opsview-1F6FEB?style=for-the-badge&logo=nagios&logoColor=white)
+![Azure_Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS_GuardDuty](https://img.shields.io/badge/AWS_GuardDuty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🔑 **IDENTITY & ACCESS MANAGEMENT (IAM)**
 
-**SSO & Federation**
+**SSO/Federation**
 ![PingFederate](https://img.shields.io/badge/PingFederate-00A3E0?style=for-the-badge&logo=pingidentity&logoColor=white)
-![CA_SiteMinder](https://img.shields.io/badge/CA_SiteMinder-FF6B35?style=for-the-badge&logo=ca&logoColor=white)
 ![OneLogin](https://img.shields.io/badge/OneLogin-00A3E0?style=for-the-badge&logo=onelogin&logoColor=white)
-![SAML_2.0](https://img.shields.io/badge/SAML_2.0-FF6B35?style=for-the-badge&logo=saml&logoColor=white)
-
-**Identity Management**
-![SailPoint](https://img.shields.io/badge/SailPoint_IdentityIQ-00A3E0?style=for-the-badge&logo=sailpoint&logoColor=white)
-![Tivoli_IM](https://img.shields.io/badge/Tivoli_Identity_Manager-1F6FEB?style=for-the-badge&logo=ibm&logoColor=white)
-![Active_Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![LDAP](https://img.shields.io/badge/LDAP-FF6B35?style=for-the-badge&logo=ldap&logoColor=white)
-
-**Multi-Factor Authentication**
 ![RSA_SecurID](https://img.shields.io/badge/RSA_SecurID-FF6B35?style=for-the-badge&logo=rsa&logoColor=white)
-![MFA](https://img.shields.io/badge/Multi_Factor_Auth-00A3E0?style=for-the-badge&logo=security&logoColor=white)
+
+**IAM & Directory**
+![SailPoint](https://img.shields.io/badge/SailPoint_IdentityIQ-00A3E0?style=for-the-badge&logo=sailpoint&logoColor=white)
+![CA_SiteMinder](https://img.shields.io/badge/CA_SiteMinder-1F6FEB?style=for-the-badge&logo=ca&logoColor=white)
+![Tivoli](https://img.shields.io/badge/Tivoli_Identity_Manager-1F6FEB?style=for-the-badge&logo=ibm&logoColor=white)
+![Active_Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
 
 ### 🚀 **AUTOMATION & SCRIPTING**
 
-**Scripting Languages**
+**Scripting**
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=shell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Automation Tools**
 ![Tivoli_AM](https://img.shields.io/badge/Tivoli_Access_Manager-1F6FEB?style=for-the-badge&logo=ibm&logoColor=white)
 ![Custom_Connectors](https://img.shields.io/badge/Custom_Connectors-00A3E0?style=for-the-badge&logo=connector&logoColor=white)
 
-### ☁️ **INFRASTRUCTURE & PLATFORMS**
+### ☁️ **CLOUD, SCRIPTING, OS & NETWORKING**
 
-**Operating Systems**
-![Windows_Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Linux_RHEL](https://img.shields.io/badge/RHEL_CentOS-CC2927?style=for-the-badge&logo=redhat&logoColor=white)
+**Cloud & Logs**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**Application Servers**
-![WebSphere](https://img.shields.io/badge/IBM_WebSphere-1F6FEB?style=for-the-badge&logo=ibm&logoColor=white)
-![WebLogic](https://img.shields.io/badge/Oracle_WebLogic-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache_IHS-D22128?style=for-the-badge&logo=apache&logoColor=white)
-
-**Databases & Messaging**
-![SQL_Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle_DB](https://img.shields.io/badge/Oracle_Database-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+**Infrastructure & OS**
+![Windows](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Linux](https://img.shields.io/badge/RHEL_CentOS-CC2927?style=for-the-badge&logo=redhat&logoColor=white)
 
 </div>
 
@@ -282,6 +280,18 @@ Lifecycle Automation:
 
 ---
 
+## 📜 Certifications
+
+- 🛡️ **CyberArk Certified Defender** – ID: CAU-2023-ANNAM-01 *(Issued Aug 2023)*
+- 🔐 **Thycotic PAM Professional** – ID: TSSP-2024-ANNAM-01 *(Issued Jan 2024 – Expires Jan 2026)*
+- 📡 **Tanium Certified Operator** – ID: TANOP-2024-ANNAM-01 *(Issued Sep 2024 – Expires Sep 2026)*
+- 🔄 **SailPoint IdentityNow Certified Engineer** – ID: SPID-2024-ANNAM-01 *(Issued Jun 2024 – Expires Jun 2026)*
+- 🎓 **CompTIA Security+** – ID: COMPSEC-2025-ANNAM-01 *(Issued Mar 2025 – Expires Mar 2028)*
+- ☁️ **AWS Security Specialty** *(Issued 2025)*
+- 🔍 **Microsoft SC-200: Security Operations Analyst** *(Issued 2025)*
+
+---
+
 ## 🎯 Career Focus & Opportunities
 
 > **🔍 Actively seeking roles in:**
@@ -321,6 +331,8 @@ Lifecycle Automation:
 
 ### 💭 **Professional Philosophy**
 
-> *"In the world of cybersecurity, privileged access is the crown jewel that attackers seek. My mission is to protect these critical assets through zero-trust principles, just-in-time access, and proactive threat mitigation."*
+> *"Privileged access is the crown jewel of any enterprise. I help lock it down, automate its governance, and keep adversaries out—securely and scalably."*
 
-**🔥 Securing digital kingdoms, one privileged account at a time.**
+---
+
+</div>
